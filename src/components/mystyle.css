@@ -1,0 +1,16 @@
+
+.box{
+    background-color:#ff00ff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:#fff;
+    height:100vh;
+    margin:0 ;
+    letter-spacing:2px;
+    overflow:hidden;
+}
+.fontLarge {
+    font-size:20px;
+    font-weight:bold;
+}
